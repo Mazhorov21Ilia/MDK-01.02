@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.Form1.resources
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.Properties.Resources.resources
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Мажоров\Map\bin\Debug\Map.exe.config
+C:\Users\student\Desktop\Мажоров\Map\bin\Debug\Map.exe
+C:\Users\student\Desktop\Мажоров\Map\bin\Debug\Map.pdb
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.exe
+C:\Users\student\Desktop\Мажоров\Map\obj\Debug\Map.pdb
