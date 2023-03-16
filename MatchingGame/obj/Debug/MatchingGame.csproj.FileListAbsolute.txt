@@ -1,0 +1,11 @@
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\bin\Debug\MatchingGame.exe
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.exe
+C:\Users\ulyan\Desktop\MDK-01.02-main\MDK-01.02-main\MatchingGame\obj\Debug\MatchingGame.pdb
