@@ -1,0 +1,38 @@
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\bin\Debug\Lesson10.exe.config
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\bin\Debug\Lesson10.exe
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\bin\Debug\Lesson10.pdb
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\RhombusControl.g.cs
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10_MarkupCompile.cache
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10_MarkupCompile.lref
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\RhombusControl.baml
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.g.resources
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.exe
+C:\Users\Сергей\Desktop\Lesson10\Lesson10\obj\Debug\Lesson10.pdb
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\bin\Debug\Lesson10.exe.config
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\bin\Debug\Lesson10.exe
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\bin\Debug\Lesson10.pdb
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\MainWindow.g.cs
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\RhombusControl.g.cs
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\App.g.cs
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10_MarkupCompile.cache
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10_MarkupCompile.lref
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\MainWindow.baml
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\RhombusControl.baml
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.g.resources
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.Properties.Resources.resources
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.GenerateResource.cache
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.exe
+C:\Users\ulyan\Downloads\MDK-01.02-main (1)\MDK-01.02-main\Lesson10\Lesson10\obj\Debug\Lesson10.pdb
