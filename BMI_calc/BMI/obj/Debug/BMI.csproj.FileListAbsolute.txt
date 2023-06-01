@@ -1,0 +1,22 @@
+C:\Users\ladyk\Desktop\BMI\BMI\bin\Debug\33.BMI калькулятор.exe.config
+C:\Users\ladyk\Desktop\BMI\BMI\bin\Debug\33.BMI калькулятор.exe
+C:\Users\ladyk\Desktop\BMI\BMI\bin\Debug\33.BMI калькулятор.pdb
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\_33.BMI_калькулятор.Form1.resources
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\_33.BMI_калькулятор.Properties.Resources.resources
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\33.BMI калькулятор.exe
+C:\Users\ladyk\Desktop\BMI\BMI\obj\Debug\33.BMI калькулятор.pdb
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\bin\Debug\33.BMI калькулятор.exe.config
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\bin\Debug\33.BMI калькулятор.exe
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\bin\Debug\33.BMI калькулятор.pdb
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\_33.BMI_калькулятор.Form1.resources
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\_33.BMI_калькулятор.Properties.Resources.resources
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\33.BMI калькулятор.exe
+C:\Users\Ad\Downloads\BMI-main\BMI-main\BMI\BMI\obj\Debug\33.BMI калькулятор.pdb

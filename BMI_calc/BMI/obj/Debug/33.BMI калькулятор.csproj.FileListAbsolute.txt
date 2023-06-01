@@ -1,0 +1,22 @@
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.exe.config
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.exe
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.pdb
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.AssemblyReference.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\_33.BMI_калькулятор.Form1.resources
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\_33.BMI_калькулятор.Properties.Resources.resources
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.GenerateResource.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.exe
+C:\Users\anaso\OneDrive\Документы\вижуал\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.pdb
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.exe.config
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.exe
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\bin\Debug\33.BMI калькулятор.pdb
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\_33.BMI_калькулятор.Form1.resources
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\_33.BMI_калькулятор.Properties.Resources.resources
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.GenerateResource.cache
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.exe
+C:\Users\student\Desktop\сокольникова 211ис\sokolll\33.BMI калькулятор\33.BMI калькулятор\obj\Debug\33.BMI калькулятор.pdb
