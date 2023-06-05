@@ -1,0 +1,24 @@
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\bin\Debug\MazhorovTeskt.exe.config
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\bin\Debug\MazhorovTeskt.exe
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\bin\Debug\MazhorovTeskt.pdb
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.Form1.resources
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.Properties.Resources.resources
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.exe
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.pdb
+C:\Users\student\Desktop\Мажоров\Teskt\MazhorovTeskt\obj\Debug\MazhorovTeskt.AboutBox1.resources
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\bin\Debug\MazhorovTeskt.exe.config
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\bin\Debug\MazhorovTeskt.exe
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\bin\Debug\MazhorovTeskt.pdb
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.AboutBox1.resources
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.Form1.resources
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.Properties.Resources.resources
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.GenerateResource.cache
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.exe
+C:\Users\student\Downloads\MDK-01.02-main (2)\MDK-01.02-main\MazhorovTeskt\obj\Debug\MazhorovTeskt.pdb
